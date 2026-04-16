@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.env.*
+*.env
+
+# Conda
+*.conda
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+docs_data/
+vectorstore/
+results/
+runpod
+runpod_new
+runpod.pub
+runpod_new.pub
